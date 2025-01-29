@@ -1,7 +1,7 @@
 # Eureka Service Documentation
 
 ## Introduction
-Eureka service that enables dynamic detection and register of microservices at runtime. It has been written
+Eureka-Service that enables dynamic detection and register of microservices at runtime. It has been written
 by using technologies:
 * Java version 21.0.2
 * Spring Boot version 3.4.0
